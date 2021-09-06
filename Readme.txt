@@ -1,4 +1,4 @@
-This folder contains two parts of code:
+This folder contains four parts of code:
 1. case study
 2. credit related
 3. mdp-solving
