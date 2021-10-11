@@ -1,9 +1,9 @@
 Meanings of every subfolder:
-	1) adjust_r_1: driver profile r = 1
-	2) adjust_r_2: driver profile r = 2
-	3) adjust_r_3: driver profile r = 0.5
-	4) adjust_r_4: driver profile r = 0.1
-	5) adjust_r_5: driver profile r = 0.7
+	1) adjust_r_1: driver profile ξ = 1
+	2) adjust_r_2: driver profile ξ = 2
+	3) adjust_r_3: driver profile ξ = 0.5
+	4) adjust_r_4: driver profile ξ = 0.1
+	5) adjust_r_5: driver profile ξ = 0.7
 	6) fixed: driver with fixed obey rate
 	8) honest: honest driver
 	9) possibility: draw the figure
